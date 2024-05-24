@@ -1,4 +1,4 @@
-import { findCalibrationValue } from "../day-one";
+import { findCalibrationValue } from "../problems/day-one-part-one";
 
 describe("Testing findCaliberationValue", () => {
   test("Should result in 292", () => {

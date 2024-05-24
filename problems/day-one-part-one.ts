@@ -1,4 +1,4 @@
-import { dayOneInputString } from "./resources/day-one-input";
+import { dayOneInputString } from "../resources/day-one-input";
 
 /**
  * --- Day 1: Trebuchet?! ---
